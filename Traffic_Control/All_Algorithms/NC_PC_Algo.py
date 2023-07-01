@@ -1,8 +1,8 @@
 #########################################################################################
-# Fixed-Duration Noncyclic-Phase Emergency-Prioritizing Scheduler
+# Fixed-Duration Noncyclic-Phase Pedestrian-Prioritizing Scheduler
 #
 # Description:  Noncyclic phases, fixed phase durations,
-#               With emergency prioritization
+#               With pedestrian prioritization
 # 
 # Inputs:
 #   * traffic_density                       Street-wise number of vehicles

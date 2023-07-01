@@ -8,7 +8,9 @@ Vehicle_Tracking/Video_Vehicle_Tracking/screenshots/
 Vehicle_Tracking/Video_Vehicle_Tracking/videos/
 Traffic_Violation_Detection/Number_Plate_Identification/saved_model.h5
 gt_token.txt
-Traffic_Control/Traffic_Simulation/Logs/
+#Traffic_Control/Traffic_Simulation/Logs/
+#Traffic_Control/All_Algorithms/
+#Traffic_Control/Traffic_Simulation/AllConfigs/
 
 ############################################################
 

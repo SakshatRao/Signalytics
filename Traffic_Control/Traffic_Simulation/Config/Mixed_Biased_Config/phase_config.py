@@ -147,10 +147,10 @@ direction_move_config = [
 #########################################################################################
 
 phases = [
-   [WS, NS, NE],
-   [NW, ES, EW],
-   [EN, SN, SW],
-   [SE, WE, WN]
+   [WS, NS, NE, WN, SW],
+   [NW, EW, ES, NE, WN],
+   [EN, SN, SW, ES, NE],
+   [SE, WE, WN, SW, ES]
 ]
 num_phases = len(phases)
 
